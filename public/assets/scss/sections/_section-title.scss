@@ -34,6 +34,9 @@
   .content {
     margin-top: 17px;
     margin-bottom: 0;
+      word-wrap: normal;
+      word-break: keep-all;
+      hyphens: none;
   }
   .small-title {
     margin-top: 18px;
