@@ -82,7 +82,7 @@ const FaqAreaOne = () => {
                       aria-expanded='false'
                       aria-controls='collapseTwo'
                     >
-                      The First Payment Gateway to Receive Commercial Approval from the Bank of Pakistan
+                      How does your payment solution ensure security for my transactions?                   
                     </button>
                   </h2>
                   <div
@@ -92,7 +92,7 @@ const FaqAreaOne = () => {
                     data-bs-parent='#accordionExample'
                   >
                     <div className='accordion-body'>
-                    We offer the most dependable payment solutions available, fully compliant with the PSO/PSP regulations set by the State Bank of Pakistan.
+                    Our payment solution employs advanced encryption and secure protocols to protect every transaction. Your data and payments are safeguarded against unauthorized access, ensuring a secure and seamless experience online.
                     </div>
                   </div>
                 </div>
@@ -106,7 +106,7 @@ const FaqAreaOne = () => {
                       aria-expanded='false'
                       aria-controls='collapseThree'
                     >
-                      Facilitating QR and Tap & Pay Transactions Across Pakistan
+                      What payment methods are supported for bill payments with ClickOnes?
                     </button>
                   </h2>
                   <div
@@ -116,7 +116,7 @@ const FaqAreaOne = () => {
                     data-bs-parent='#accordionExample'
                   >
                     <div className='accordion-body'>
-                     We've teamed up with UnionPay International, the largest payment network in the world, to enhance mobile payment capabilities.
+                    ClickOnes allows you to collect payments through a variety of channels, including mobile banking, internet banking, making it convenient and accessible for businesses and their customers.
                     </div>
                   </div>
                 </div>
